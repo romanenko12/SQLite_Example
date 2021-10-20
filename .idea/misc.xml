@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AS Projects/SQLite_Example/app/src/main/res/drawable/ic_person_add_white_24dp.xml" value="0.28177083333333336" />
+        <entry key="..\:/AS Projects/SQLite_Example/app/src/main/res/drawable/ic_save_white_24dp.xml" value="0.1734375" />
+        <entry key="..\:/AS Projects/SQLite_Example/app/src/main/res/layout/activity_add_member.xml" value="0.15729166666666666" />
+        <entry key="..\:/AS Projects/SQLite_Example/app/src/main/res/layout/activity_main.xml" value="0.2952322738386308" />
+        <entry key="..\:/AS Projects/SQLite_Example/app/src/main/res/layout/member_item.xml" value="0.1983695652173913" />
+        <entry key="..\:/AS Projects/SQLite_Example/app/src/main/res/menu/edit_member_menu.xml" value="0.15729166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
